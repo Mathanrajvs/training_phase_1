@@ -1,2 +1,0 @@
-name=Mathanraj
-password=12345677899
